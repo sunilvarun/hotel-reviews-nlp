@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+data/*.csv
+!data/Hotel_Reviews_sample.csv
